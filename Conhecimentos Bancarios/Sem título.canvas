@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"7232b3ae50c3f0a3","type":"text","text":"Contratos Não Padronizados","x":340,"y":-222,"width":250,"height":60},
+		{"id":"0260e50ba5a4b807","type":"text","text":"Sem transparência na formação de preços","x":340,"y":-143,"width":250,"height":60},
+		{"id":"83d9541fe954241b","type":"text","text":"Investidor assume risco de contraparte*","x":340,"y":-60,"width":250,"height":60},
+		{"id":"e75b41c89c42ad9a","type":"text","text":"Transparência na formação de preços","x":-380,"y":-143,"width":250,"height":60},
+		{"id":"9ef5232acb51abe3","type":"text","text":"B3 assume risco de contraparte*","x":-380,"y":-60,"width":250,"height":60},
+		{"id":"a907226bda9e80fe","type":"text","text":"Contratos Padronizados","x":-379,"y":-222,"width":250,"height":60},
+		{"id":"6f675d831ed0463f","type":"text","text":"Regulado pela CVM","x":340,"y":40,"width":250,"height":60},
+		{"id":"1dbb1f602a165a33","type":"text","text":"Regulado pela CVM","x":-380,"y":40,"width":250,"height":60},
+		{"id":"8d530d9f9f19784d","x":-40,"y":-90,"width":120,"height":60,"type":"text","text":"**BOLSA**"},
+		{"id":"a92361e7cbbc183d","type":"text","text":"**BALCÃO**","x":100,"y":-90,"width":140,"height":60}
+	],
+	"edges":[
+		{"id":"dc2a548ed9cdc243","fromNode":"8d530d9f9f19784d","fromSide":"left","toNode":"a907226bda9e80fe","toSide":"right"},
+		{"id":"2af390cde14a6b8f","fromNode":"8d530d9f9f19784d","fromSide":"left","toNode":"e75b41c89c42ad9a","toSide":"right"},
+		{"id":"058e0033dcfa970f","fromNode":"8d530d9f9f19784d","fromSide":"left","toNode":"9ef5232acb51abe3","toSide":"right"},
+		{"id":"a1e6a145321304ea","fromNode":"a92361e7cbbc183d","fromSide":"right","toNode":"7232b3ae50c3f0a3","toSide":"left"},
+		{"id":"f9a4d3c7f60c1b79","fromNode":"a92361e7cbbc183d","fromSide":"right","toNode":"0260e50ba5a4b807","toSide":"left"},
+		{"id":"126d691c6eb83fdc","fromNode":"a92361e7cbbc183d","fromSide":"right","toNode":"83d9541fe954241b","toSide":"left"},
+		{"id":"d081a4a541ddb8bf","fromNode":"8d530d9f9f19784d","fromSide":"left","toNode":"1dbb1f602a165a33","toSide":"right"},
+		{"id":"ae32a1f316bce8f7","fromNode":"a92361e7cbbc183d","fromSide":"right","toNode":"6f675d831ed0463f","toSide":"left"}
+	]
+}

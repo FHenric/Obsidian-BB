@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Razões, Proporções e Divisões proposicionais
 - [ ] Regra de três e Porcentagens.
 - [ ] Lógica proposicional
 - [ ] Relações e funções
@@ -21,6 +20,7 @@ kanban-plugin: board
 
 - [ ] Numeros
 	- [ ]
+- [ ] Razões, Proporções e Divisões proposicionais
 
 
 ## Para revisar
