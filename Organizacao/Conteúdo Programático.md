@@ -35,7 +35,7 @@
 [[1.     Os bancos na Era Digital - Atualidade, tendências e desafios.]]
 [[2.     Internet banking.]]
 [[3.     Mobile banking.]]
-[[4.     Open banking.]]
+[[4.     Open banking X Open Finance.]]
 [[5.     Novos modelos de negócios.]]
 [[6.     Fintechs, startups e big techs.]]
 [[7.     Sistema de bancos-sombra (Shadow banking).]]
