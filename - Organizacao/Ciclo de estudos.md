@@ -1,7 +1,7 @@
 
 
 - [x] Conhecimentos Bancários
-- [x] Lingua Portuguesa
+- [ ] Lingua Portuguesa
 - [ ] Mercado Financeiro
 - [ ] Matemática
 - [ ] Probabilidade e estatística
