@@ -1,8 +1,8 @@
 
-
-- [x] Conhecimentos Bancários
+- [ ] TI
+- [ ] Conhecimentos Bancários
 - [ ] Lingua Portuguesa
-- [ ] Mercado Financeiro
+- [ ] TI
 - [ ] Matemática
 - [ ] Probabilidade e estatística
 

@@ -1,15 +1,15 @@
 **1. Fundamentos Essenciais:**
 
-- [ ] **Operações Básicas:** 
-    - [ ] Adição, subtração, multiplicação e divisão com números inteiros, decimais e frações.
-    - [ ] Expressões numéricas: ordem das operações (PEMDAS/PEDMAS). 
-- [ ] **Conjuntos Numéricos:**
-    - [ ] Números naturais, inteiros, racionais, irracionais e reais.
-    - [ ] Relações de inclusão e operações entre conjuntos numéricos.
-- [ ] **Divisibilidade:**
-    - [ ] Múltiplos e divisores.
-    - [ ] Números primos e compostos.
-    - [ ] MMC (Mínimo Múltiplo Comum) e MDC (Máximo Divisor Comum).
+- [x] **Operações Básicas:** 
+    - [x] Adição, subtração, multiplicação e divisão com números inteiros, decimais e frações.
+    - [x] Expressões numéricas: ordem das operações (PEMDAS/PEDMAS). 
+- [x] **Conjuntos Numéricos:**
+    - [x] Números naturais, inteiros, racionais, irracionais e reais.
+    - [x] Relações de inclusão e operações entre conjuntos numéricos.
+- [x] **Divisibilidade:**
+    - [x] Múltiplos e divisores.
+    - [x] Números primos e compostos.
+    - [x] MMC (Mínimo Múltiplo Comum) e MDC (Máximo Divisor Comum).
 - [ ] **Potenciação e Radiciação:**
     - [ ] Propriedades das potências e raízes.
     - [ ] Operações com radicais.

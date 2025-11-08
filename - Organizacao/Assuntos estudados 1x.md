@@ -1,0 +1,7 @@
+ - SQL
+ - Sistema financeiro nacional
+ - Mercado financeiro e seus desdobramentos
+ - Fatoração
+ - MMC e MDC
+ - Primos
+ - Operações básicas

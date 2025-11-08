@@ -1,0 +1,55 @@
+- [ ] **1. Fundamentos de Modelagem e Banco de Dados Relacional**
+  - [ ] 1.1. Modelagem Conceitual: A Abordagem Entidade-Relacionamento (MER/DER)
+    - [ ] 1.1.1. Entidades, Atributos e Identificadores (Chave Primária)
+    - [ ] 1.1.2. Relacionamentos e Cardinalidade (1:1, 1:N, N:M)
+  - [ ] 1.2. O Modelo Relacional de Dados
+    - [ ] 1.2.1. Conceitos: Relação (Tabela), Tupla (Linha), Atributo (Coluna)
+    - [ ] 1.2.2. Chaves: Primária, Estrangeira e Candidata
+  - [ ] 1.3. Normalização de Dados
+    - [ ] 1.3.1. O que é e por que normalizar (Evitar Anomalias)
+    - [ ] 1.3.2. Formas Normais: 1FN, 2FN e 3FN (As mais cobradas)
+
+- [ ] **2. Linguagem SQL (Structured Query Language)**
+  - [ ] 2.1. Subconjuntos da Linguagem (DDL, DML, DQL, DCL, DTL)
+  - [ ] 2.2. DDL - Linguagem de Definição de Dados
+    - [ ] 2.2.1. `CREATE TABLE` e tipos de dados
+    - [ ] 2.2.2. `ALTER TABLE` (Adicionar/Remover colunas e restrições)
+    - [ ] 2.2.3. `DROP TABLE`
+  - [ ] 2.3. DML - Linguagem de Manipulação de Dados
+    - [ ] 2.3.1. `INSERT INTO` (Inserindo dados)
+    - [ ] 2.3.2. `UPDATE` (Atualizando dados)
+    - [ ] 2.3.3. `DELETE FROM` (Removendo dados)
+  - [ ] 2.4. DQL - Linguagem de Consulta de Dados
+    - [ ] 2.4.1. A estrutura do `SELECT`: `SELECT`, `FROM`, `WHERE`
+    - [ ] 2.4.2. Cláusulas de Ordenação e Agrupamento: `ORDER BY`, `GROUP BY`, `HAVING`
+    - [ ] 2.4.3. Funções de Agregação: `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`
+  - [ ] 2.5. Junções (JOINs)
+    - [ ] 2.5.1. `INNER JOIN`
+    - [ ] 2.5.2. `LEFT JOIN` e `RIGHT JOIN`
+    - [ ] 2.5.3. `FULL OUTER JOIN`
+  - [ ] 2.6. Restrições (Constraints)
+    - [ ] 2.6.1. `NOT NULL`, `UNIQUE`, `PRIMARY KEY`, `FOREIGN KEY`
+    - [ ] 2.6.2. `CHECK`
+
+- [ ] **3. Sistemas Gerenciadores de Banco de Dados (SGBD)**
+  - [ ] 3.1. Conceitos, Arquitetura e Funções Principais
+  - [ ] 3.2. Controle de Transações (ACID) e Concorrência
+  - [ ] 3.3. Otimização de Consultas e o uso de Índices
+  - [ ] 3.4. Gatilhos (Triggers)
+  - [ ] 3.5. Menção a SGBDs específicos: PostgreSQL
+
+- [ ] **4. Bancos de Dados NoSQL (Not Only SQL)**
+  - [ ] 4.1. Conceitos Fundamentais: Quando e por que usar NoSQL (Teorema CAP)
+  - [ ] 4.2. Tipos de Bancos de Dados NoSQL
+    - [ ] 4.2.1. Orientados a Documentos (Ex: MongoDB)
+    - [ ] 4.2.2. Chave-Valor
+    - [ ] 4.2.3. Orientados a Colunas (Wide-Column)
+    - [ ] 4.2.4. Orientados a Grafos
+  - [ ] 4.3. MongoDB: Estrutura de Documentos (JSON/BSON) e Consultas Básicas (`find`, `distinct`)
+
+- [ ] **5. Data Warehouse (DW) e Business Intelligence (BI)**
+  - [ ] 5.1. Conceitos: DW vs. Banco de Dados Transacional (OLTP vs. OLAP)
+  - [ ] 5.2. Modelagem Dimensional
+    - [ ] 5.2.1. Fatos e Dimensões
+    - [ ] 5.2.2. Esquemas: Estrela (Star Schema) e Floco de Neve (Snowflake Schema)
+  - [ ] 5.3. Cubos de Dados (OLAP Cube)
